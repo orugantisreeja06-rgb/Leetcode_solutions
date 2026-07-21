@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
