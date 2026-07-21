@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0410-split-array-largest-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
