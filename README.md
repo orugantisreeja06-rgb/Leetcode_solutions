@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0410-split-array-largest-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
