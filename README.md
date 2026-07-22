@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
