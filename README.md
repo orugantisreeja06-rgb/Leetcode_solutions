@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
 |  |
@@ -76,4 +77,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/orugantisreeja06-rgb/Leetcode_solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
