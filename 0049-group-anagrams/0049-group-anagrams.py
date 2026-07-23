@@ -2,10 +2,11 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         dict1={}
         for i in strs:
-            if "".join(sorted(i)) in dict1:
-                dict1["".join(sorted(i))].append(i)
+            key="".join(sorted(i)) 
+            if key in dict1:
+                dict1[key].append(i)
             else:
-                dict1["".join(sorted(i))]=[i]
+                dict1[key]=[i]
         return list(dict1.values())
             
         
