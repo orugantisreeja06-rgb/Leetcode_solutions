@@ -6,6 +6,6 @@ class Solution:
                 dict1[nums[i]]=1
             else:
                 dict1[nums[i]]+=1
-        for i in range(len(nums)):
-            if dict1[nums[i]]>int(len(nums)/2):
-                return nums[i]
+        for i,c in dict1.items():
+            if c>int(len(nums)/2):
+                return i
