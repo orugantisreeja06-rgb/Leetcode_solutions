@@ -9,11 +9,12 @@ class Solution:
             else:
                 dict1[s[i]]+=1
         for i in range(len(t)):
-            if t[i] in dict1:
+            if t[i]  not in dict1:
+                return False
+            else:
                 dict1[t[i]]-=1
                 if dict1[t[i]]==0:
                     del dict1[t[i]]
-                
         return len(dict1)==0
 
         
